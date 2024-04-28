@@ -1,7 +1,6 @@
 package org.hse.template.controller
 
 import org.hse.template.api.FooApi
-import org.hse.template.client.rest.api.DogsClient
 import org.hse.template.client.rest.model.AddFavouriteModel
 import org.hse.template.client.rest.model.AddFavouriteResponseModel
 import org.hse.template.client.rest.model.DogModel
